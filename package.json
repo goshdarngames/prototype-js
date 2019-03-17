@@ -1,0 +1,30 @@
+{
+  "name": "prototype-js",
+  "version": "1.0.0",
+  "description": "Experimental javascript projects",
+  "main": "various",
+  "dependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-run": "^0.8.1",
+    "jest": "^24.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "various"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goshdarngames/prototype-js.git"
+  },
+  "keywords": [
+    "prototype",
+    "games"
+  ],
+  "author": "goshdarngames",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/goshdarngames/prototype-js/issues"
+  },
+  "homepage": "https://github.com/goshdarngames/prototype-js#readme"
+}
